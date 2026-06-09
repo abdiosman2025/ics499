@@ -1,12 +1,12 @@
 ICS 499 Capstone Project Weekly Signoff Sheet
 
-Project Title: 
+Project Title: Quiz Master Development Team
 
-Team Name: ___________
+Team Name: __TEam 6_________
 
-Student Name:    ________________
+Student Name:    _Abdi osman_______________
        
-Final Project Iteration Number:     _____
+Final Project Iteration Number:    6_____
 
 Reviewed the weekly progress with the instructor:  [ ] Yes   [  ] No
 
@@ -14,13 +14,19 @@ Reviewed the weekly progress with the instructor:  [ ] Yes   [  ] No
 Weekly Contribution:  Please provide a summary of your contributions to the project during this week. Be specific about tasks, responsibilities, and any challenges you encountered. Describe how your work benefited the overall team and project.
 
 
+During this week, I worked on the FP2 Requirements Elaboration document for the Quiz Master project. I analyzed the current quiz process used on learnandhelp.com and identified several pain points, including manual grading, screenshot submissions, lack of attempt tracking, and disconnected workflows.
+
+I documented the proposed Quiz Master solution, including the project overview, technology stack, user roles, functional requirements, and non-functional requirements. I also helped define quiz management features, student quiz-taking workflows, score tracking, retake policies, instructor tools, CSV export functionality, and integration requirements with learnandhelp.com.
+
+In addition, I created the initial database schema design, outlining the quizzes, submissions, and score_overrides tables. I also prepared the high-level project structure, milestones, and file organization to guide future development.
+
+One challenge was translating the project requirements into detailed system requirements while ensuring all instructor expectations were addressed. This work benefits the project by providing a clear foundation for development and helping the team understand the system architecture and functionality before implementation begins.
 
 
 
 
 
-
-Did you give the demo of this iteration?  [   ]  Yes       [  ]  No         
+Did you give the demo of this iteration?  [ yes  ]  Yes       [  ]  No         
       
 Note 1:   It is not good enough to submit the weekly signoff. You get full credit only if you demo your work in the breakout room.  It is also OK if your team demonstrates your work on your behalf
 Note 2: If you are absent, and if your team couldn’t demonstrate your work, then you earn only partial credit at instructor’s discretion.
